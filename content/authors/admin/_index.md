@@ -5,8 +5,7 @@ last_name: Abelin
 
 
 # Status emoji
-status:
-  icon: ☕️
+
 
 # Is this the primary user of the site?
 superuser: true
@@ -30,10 +29,8 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/BuildLore
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/](https://www.linkedin.com/in/pedro-abelin-3b3714b8/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
