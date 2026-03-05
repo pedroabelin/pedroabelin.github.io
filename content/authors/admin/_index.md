@@ -1,16 +1,8 @@
 ---
-# Display name
-title: 吳健雄
+title: Pedro Abelin
+first_name: Pedro
+last_name: Abelin
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Pronouns (optional)
-pronouns: she/her
 
 # Status emoji
 status:
@@ -20,21 +12,22 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Maryland
+    url: https://www.gvpt.umd.edu/gradprofile/abelin/pedro
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
+I’m a PhD candidate in the Department of Government and Politics at the University of Maryland, College Park.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:abelin@umd.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/BuildLore
@@ -57,6 +50,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
