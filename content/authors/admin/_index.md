@@ -20,8 +20,7 @@ organizations:
     url: https://www.gvpt.umd.edu/gradprofile/abelin/pedro
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-I’m a PhD candidate in the Department of Government and Politics at the University of Maryland, College Park.
+bio: I’m a PhD candidate in the Department of Government and Politics at the University of Maryland, College Park.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
