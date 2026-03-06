@@ -3,47 +3,50 @@ title: Pedro Abelin
 first_name: Pedro
 last_name: Abelin
 
-
-# Status emoji
-
-
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
 role: Ph.D. Candidate
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
   - name: University of Maryland
     url: https://www.gvpt.umd.edu/gradprofile/abelin/pedro
 
-# Short bio (displayed in user profile at end of posts)
-bio: I’m a PhD candidate in the Department of Government and Politics at the University of Maryland, College Park.
+# Short bio shown on the homepage
+bio: PhD candidate in the Department of Government and Politics at the University of Maryland studying international political economy, comparative political behavior, and political communication in Latin America.
 
-# Social Networking
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+# Social links
 profiles:
   - icon: at-symbol
-    url: 'mailto:abelin@umd.edu'
-    label: E-mail Me
+    url: mailto:abelin@umd.edu
+    label: Email
+
   - icon: brands/x
     url: https://x.com/BuildLore
+
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/pedro-abelin-3b3714b8/
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
 
-# Highlight the author in author lists? (true/false)
+  - icon: academicons/cv
+    url: /uploads/Pedro_Abelin__CV.pdf
+    label: CV
+
+# Highlight the author in author lists
 highlight_name: true
 
-# Author's website URL
 website: ""
 ---
 
-I’m a PhD candidate in the Department of Government and Politics at the University of Maryland, College Park.
+Welcome! My name is Pedro Abelin. I am a Ph.D. candidate in the Department of Government and Politics at the University of Maryland and a member of the Interdisciplinary Laboratory of Computational Social Science (iLCSS) and the Resocie research group.
+
+My research centers on international political economy, comparative political behavior, and political communication, with a regional focus on Latin America. I study Brazil–China relations, populism, and how media consumption shapes political attitudes and behavior in polarized environments.
+
+My research draws on mixed-methods approaches, including computational text analysis, experimental and observational data, and qualitative interviews.
+
+My work has been published or is forthcoming in *Global Society*, *Journal of Politics in Latin America*, and *Information, Communication & Society*, among others.
+
+Before beginning my Ph.D., I received my B.A. and M.A. in Political Science from the University of Brasília. I was also a research fellow for three years at the National Institute of Science and Technology in Democracy and Democratization of Communication (INCT/IDDC) in Brazil.
+
+Always happy to connect!
