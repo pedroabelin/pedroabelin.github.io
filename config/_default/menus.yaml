@@ -3,14 +3,11 @@ main:
     url: /
     weight: 10
   - name: CV
-    url: /uploads/Pedro_Abelin__CV.pdf
+    url: "https://pedroabelin.com/uploads/Pedro_Abelin__CV.pdf"
     weight: 20
   - name: Research
-    url: research/
+    url: /research/
     weight: 30
   - name: Teaching
-    url: teaching/
+    url: /teaching/
     weight: 40
-  - name: Contact
-    url: contact/
-    weight: 50
