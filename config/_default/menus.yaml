@@ -11,3 +11,6 @@ main:
   - name: Teaching
     url: /teaching/
     weight: 40
+  - name: Interviews
+    url: /interviews/
+    weight: 45
