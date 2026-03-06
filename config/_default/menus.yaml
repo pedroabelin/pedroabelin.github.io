@@ -1,13 +1,10 @@
-# Navigation Links
-#   The weight parameter defines the order that the links will appear in.
-
 main:
   - name: Home
     url: /
     weight: 10
   - name: CV
-  url: /uploads/Pedro_Abelin__CV.pdf
-  weight: 30
+    url: /uploads/Pedro_Abelin__CV.pdf
+    weight: 20
   - name: Research
     url: research/
     weight: 30
