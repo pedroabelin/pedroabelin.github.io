@@ -17,13 +17,12 @@ profiles:
     label: Email
 
   - icon: academicons/cv
-    url: uploads/cv.pdf
+    url: /uploads/Pedro_Abelin__CV.pdf
     label: CV
 
 highlight_name: true
 website: ""
 
-# To publish author profile pages, remove all the `build` and `cascade` settings below.
 build:
   render: never
 cascade:
