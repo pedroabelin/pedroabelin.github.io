@@ -30,7 +30,7 @@ profiles:
   - icon: brands/x
     url: https://x.com/BuildLore
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/pedro-abelin-3b3714b8/
+    url: https://www.linkedin.com/](https://www.linkedin.com/in/pedro-abelin-3b3714b8/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
@@ -46,4 +46,4 @@ highlight_name: true
 website: ""
 ---
 
-I’m a PhD candidate in the Department of Government and Politics at the University of Maryland, College Park.
+
