@@ -3,7 +3,7 @@
 PhD Candidate in the Department of Government and Politics  
 University of Maryland
 
-My research focuses on political institutions, development, and political economy.
+My research focuses on.
 
 - [Research](./research)
 - [Teaching](./teaching)
