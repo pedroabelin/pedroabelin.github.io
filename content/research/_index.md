@@ -4,8 +4,10 @@ type: landing
 sections:
   - block: collection
     content:
-      title: Publications
+      title: Selected peer-reviewed publications
       filters:
         folders:
           - research
+    design:
+      view: citation
 ---
