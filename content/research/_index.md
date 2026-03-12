@@ -2,15 +2,13 @@
 title: Research
 type: landing
 sections:
-  - block: markdown
-    content:
-      title: Selected peer-reviewed publications
-      text: ""
   - block: collection
     content:
+      title: Selected peer-reviewed publications
       filters:
         folders:
           - research
     design:
-      view: list
+      view: citation
+      columns: 1
 ---
