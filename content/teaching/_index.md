@@ -6,9 +6,9 @@ sections:
     content:
       title: Teaching Experience
       text: |
-        • **2025** — Instructor, *The People in Power? Understanding the Rise of Populism*. University of Maryland, USA.
+        • **The People in Power? Understanding the Rise of Populism.** Instructor, undergraduate level. Summer 2024. University of Maryland, College Park, United States.
 
-        • **2022** — Teaching Assistant, *Political Philosophy*. University of Maryland, USA.
+        • **The Study of Political Philosophy: Ancient and Modern.** Teaching Assistant, undergraduate level. Fall 2022. University of Maryland, College Park, United States.
 
-        • **2018** — Teaching Assistant, *Research Methods in Political Science*. University of Brasília, Brazil.
+        • **Research Methods in Political Science.** Teaching Assistant, undergraduate level. Fall 2018. University of Brasília, Brazil.
 ---
