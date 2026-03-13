@@ -57,4 +57,6 @@ Before beginning my Ph.D., I received my B.A. and M.A. in Political Science from
 
 Outside academia, I enjoy cinema, literature, and football, and occasionally write film reviews on [Letterboxd](https://letterboxd.com/abelin/).
 
+You can reach me by email at [abelin@umd.edu](mailto:abelin@umd.edu). My profiles are also available on [Google Scholar](https://scholar.google.com/citations?user=WmLUnGcAAAAJ&hl=en) and [LinkedIn](https://www.linkedin.com/in/pedro-abelin-3b3714b8/).
+
 Always happy to connect!
