@@ -8,7 +8,7 @@ sections:
       text: |
         • **The Filmmakers and the Images of the City**  
         *Os cineastas e as imagens da cidade* — Jacobin Brasil (2023).  
-     
+        [PDF](/uploads/Texto%20Jacobin.pdf)
 
         • **Multiverses, Metaverses and the Spectacle of Capitalist Realism**  
         *Multiversos, metaversos e o espetáculo do realismo capitalista* — Jacobin Brasil (2023).  
