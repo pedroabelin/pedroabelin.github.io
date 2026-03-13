@@ -24,12 +24,12 @@ profiles:
     url: mailto:abelin@umd.edu
     label: Email
 
-  - icon: google-scholar
+  - icon: google-scholar-square
     icon_pack: ai
     url: https://scholar.google.com/citations?user=WmLUnGcAAAAJ&hl=en
     label: Google Scholar
 
-  - icon: linkedin
+  - icon: linkedin-in
     icon_pack: fab
     url: https://www.linkedin.com/in/pedro-abelin-3b3714b8/
     label: LinkedIn
