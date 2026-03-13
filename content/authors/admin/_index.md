@@ -19,19 +19,23 @@ bio: PhD candidate in the Department of Government and Politics at the Universit
 
 # Social links
 profiles:
-  - icon: fas/envelope
+  - icon: envelope
+    icon_pack: fas
     url: mailto:abelin@umd.edu
     label: Email
 
-  - icon: academicons/google-scholar
+  - icon: google-scholar
+    icon_pack: ai
     url: https://scholar.google.com/citations?user=WmLUnGcAAAAJ&hl=en
     label: Google Scholar
 
-  - icon: brands/linkedin
+  - icon: linkedin
+    icon_pack: fab
     url: https://www.linkedin.com/in/pedro-abelin-3b3714b8/
     label: LinkedIn
 
-  - icon: fas/film
+  - icon: film
+    icon_pack: fas
     url: https://letterboxd.com/abelin/
     label: Letterboxd
 
