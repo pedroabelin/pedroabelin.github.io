@@ -17,6 +17,9 @@ organizations:
 # Short bio shown on the homepage
 bio: PhD candidate in the Department of Government and Politics at the University of Maryland studying international political economy, comparative political behavior, and political communication in Latin America.
 
+# Accessibility description for profile image
+avatar:
+  alt: "Portrait of Pedro Abelin smiling and wearing a black polo shirt."
 
 # Highlight the author in author lists
 highlight_name: true
