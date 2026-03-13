@@ -55,6 +55,6 @@ My work has been published or is forthcoming in *Global Society*, *Journal of Po
 
 Before beginning my Ph.D., I received my B.A. and M.A. in Political Science from the University of Brasília. I was also a research fellow for three years at the National Institute of Science and Technology in Democracy and Democratization of Communication (INCT/IDDC) in Brazil.
 
-Outside academia, I enjoy cinema, literature, and football, and occasionally write film reviews on Letterboxd.
+Outside academia, I enjoy cinema, literature, and football, and occasionally write film reviews on [Letterboxd](https://letterboxd.com/abelin/).
 
 Always happy to connect!
