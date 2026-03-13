@@ -45,7 +45,7 @@ highlight_name: true
 website: ""
 ---
 
-Welcome! My name is Pedro Abelin. I am a Ph.D. candidate in the Department of Government and Politics at the University of Maryland and a member of the Interdisciplinary Laboratory of Computational Social Science (iLCSS) and the Resocie research group.
+Welcome! My name is Pedro Abelin. I am a Ph.D. candidate in the Department of Government and Politics at the University of Maryland and a member of the Interdisciplinary Laboratory of Computational Social Science ([iLCSS](https://ilcss.umd.edu)) and the [Resocie](https://resocie.org) research group.
 
 My research centers on international political economy, comparative political behavior, and political communication, with a regional focus on Latin America. I study Brazil–China relations, populism, and how media consumption shapes political attitudes and behavior in polarized environments.
 
