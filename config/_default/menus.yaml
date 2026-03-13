@@ -20,5 +20,5 @@ main:
     weight: 50
 
   - name: CV
-    url: /uploads/Pedro_Abelin_CV.pdf
+    url: /uploads/pedro_abelin_cv.pdf
     weight: 60
