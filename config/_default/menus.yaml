@@ -3,22 +3,22 @@ main:
     url: /
     weight: 10
 
-  - name: CV
-    url: "https://pedroabelin.com/uploads/Pedro_Abelin__CV.pdf"
-    weight: 20
-
   - name: Research
     url: /research/
-    weight: 30
+    weight: 20
 
   - name: Teaching
     url: /teaching/
+    weight: 30
+
+  - name: Writing
+    url: /writing/
     weight: 40
 
   - name: Media
     url: /media/
-    weight: 45
-
-  - name: Writing
-    url: /writing/
     weight: 50
+
+  - name: CV
+    url: "https://pedroabelin.com/uploads/Pedro_Abelin__CV.pdf"
+    weight: 60
