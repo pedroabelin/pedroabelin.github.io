@@ -19,6 +19,6 @@ main:
     url: /media/
     weight: 50
 
-  - name: CV
-    url: /uploads/Pedro_Abelin_CV.pdf
-    weight: 60
+- name: CV
+  url: /uploads/Pedro_Abelin_CV.pdf
+  weight: 60
