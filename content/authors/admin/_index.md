@@ -23,15 +23,12 @@ profiles:
     url: mailto:abelin@umd.edu
     label: Email
 
-  - icon: brands/x
-    url: https://x.com/BuildLore
-
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/pedro-abelin-3b3714b8/
 
-  - icon: academicons/cv
-    url: /uploads/Pedro_Abelin__CV.pdf
-    label: CV
+  - icon: fas/film
+    url: https://letterboxd.com/abelin/
+    label: Letterboxd
 
 # Highlight the author in author lists
 highlight_name: true
@@ -43,7 +40,7 @@ Welcome! My name is Pedro Abelin. I am a Ph.D. candidate in the Department of Go
 
 My research centers on international political economy, comparative political behavior, and political communication, with a regional focus on Latin America. I study Brazil–China relations, populism, and how media consumption shapes political attitudes and behavior in polarized environments.
 
-To address these questions, I use mixed methods, including computational text analysis, experimental and observational data, and qualitative interviews
+To address these questions, I use mixed methods, including computational text analysis, experimental and observational data, and qualitative interviews.
 
 My work has been published or is forthcoming in *Global Society*, *Journal of Politics in Latin America*, and *Information, Communication & Society*, among others.
 
