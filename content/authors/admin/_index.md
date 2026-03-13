@@ -17,27 +17,6 @@ organizations:
 # Short bio shown on the homepage
 bio: PhD candidate in the Department of Government and Politics at the University of Maryland studying international political economy, comparative political behavior, and political communication in Latin America.
 
-# Social links
-profiles:
-  - icon: envelope
-    icon_pack: fas
-    url: mailto:abelin@umd.edu
-    label: Email
-
-  - icon: google-scholar-square
-    icon_pack: ai
-    url: https://scholar.google.com/citations?user=WmLUnGcAAAAJ&hl=en
-    label: Google Scholar
-
-  - icon: linkedin-in
-    icon_pack: fab
-    url: https://www.linkedin.com/in/pedro-abelin-3b3714b8/
-    label: LinkedIn
-
-  - icon: film
-    icon_pack: fas
-    url: https://letterboxd.com/abelin/
-    label: Letterboxd
 
 # Highlight the author in author lists
 highlight_name: true
