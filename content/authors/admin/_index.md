@@ -7,15 +7,15 @@ last_name: Abelin
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Ph.D. | Political Consultant
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Maryland
-    url: https://www.gvpt.umd.edu/gradprofile/abelin/pedro
+  - name: Interdisciplinary Laboratory of Computational Social Science
+    url: https://ilcss.umd.edu
 
 # Short bio shown on the homepage
-bio: PhD candidate in the Department of Government and Politics at the University of Maryland studying international political economy, comparative political behavior, and political communication in Latin America.
+bio: Ph.D. and political consultant specializing in international political economy, comparative political behavior, and political communication, with a regional focus on Latin America.
 
 # Accessibility description for profile image
 image:
@@ -27,15 +27,15 @@ highlight_name: true
 website: ""
 ---
 
-Welcome! My name is Pedro Abelin. I am a Ph.D. candidate in the Department of Government and Politics at the University of Maryland and a member of the Interdisciplinary Laboratory of Computational Social Science ([iLCSS](https://ilcss.umd.edu)) and the [Resocie](https://resocie.org) research group.
+Welcome! My name is Pedro Abelin. I am a Ph.D. and political consultant affiliated with the [Interdisciplinary Laboratory of Computational Social Science (iLCSS)](https://ilcss.umd.edu).
 
 My research centers on international political economy, comparative political behavior, and political communication, with a regional focus on Latin America. I study Brazil–China relations, populism, and how media consumption shapes political attitudes and behavior in polarized environments.
 
 To address these questions, I use mixed methods, including computational text analysis, experimental and observational data, and qualitative interviews.
 
-My work has been published or is forthcoming in *Global Society*, *Journal of Politics in Latin America*, and *Information, Communication & Society*, among others.
+My work has been published or is forthcoming in *Global Society*, *Journal of Politics in Latin America*, *Latin American Politics and Society*, and *Information, Communication & Society*, among others.
 
-Before beginning my Ph.D., I received my B.A. and M.A. in Political Science from the University of Brasília. I was also a research fellow for three years at the National Institute of Science and Technology in Democracy and Democratization of Communication (INCT/IDDC) in Brazil.
+I received my Ph.D. from the Department of Government and Politics at the University of Maryland, and my B.A. and M.A. in Political Science from the University of Brasília. I was also a research fellow for three years at the National Institute of Science and Technology in Democracy and Democratization of Communication (INCT/IDDC) in Brazil.
 
 Outside academia, I enjoy cinema, literature, and football, and occasionally write film reviews on [Letterboxd](https://letterboxd.com/abelin/).
 
